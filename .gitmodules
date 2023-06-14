@@ -1,3 +1,6 @@
 [submodule "simple-greeter-hhe"]
 	path = simple-greeter-hhe
 	url = https://github.com/nisargsc/simple-greeter-hhe
+[submodule "simple-storage-hhe"]
+	path = simple-storage-hhe
+	url = https://github.com/nisargsc/simple-storage-hhe
