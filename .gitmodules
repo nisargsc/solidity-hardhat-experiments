@@ -4,3 +4,6 @@
 [submodule "simple-storage-hhe"]
 	path = simple-storage-hhe
 	url = https://github.com/nisargsc/simple-storage-hhe
+[submodule "multisig-hhe"]
+	path = multisig-hhe
+	url = https://github.com/nisargsc/multisig-hhe.git
